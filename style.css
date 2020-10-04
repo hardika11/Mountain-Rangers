@@ -1,0 +1,46 @@
+body
+{
+	background: #aedeeb;
+	font-family: 'Nunito', sans-serif;
+}
+#mainNavbar .navbar-brand
+{
+	color: red;
+}
+
+#mainNavbar
+{
+	font-size: 1.5rem;
+	font-weight: 100;
+}
+
+#mainNavbar .nav-link
+{
+	color: white;
+}
+#mainNavbar .nav-link:hover
+{
+	color: #5290B2;
+}#name
+{
+	font-weight: 100;
+	font-size: 4rem;
+}
+#info
+{
+	font-size: 1.5rem;
+	font-weight: 100;
+	line-height: 2;
+}
+h2{
+	font-size: 2.5rem;
+}
+.content
+{
+	margin-top: 100px;
+}
+.navbar.scrolled
+{
+	background: #737CA1;
+	transition: background 500ms; 
+}
